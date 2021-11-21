@@ -256,14 +256,10 @@ AS
 		IF NOT EXISTS(SELECT * FROM FuncionariosHotel WHERE CPF = @PesquisaCPF)
 			BEGIN
 				SELECT @RetornoConsulta
-				--SET @RetornoConsulta = 'Erro'
-				--SELECT @RetornoConsulta AS Retorno
 			END
 		ELSE
 			BEGIN
 				SELECT * FROM FuncionariosHotel WHERE CPF = @PesquisaCPF
-				--SET @RetornoConsulta = 'Sucesso' 
-				--SELECT @RetornoConsulta AS Retorno
 			END
 	END
 GO
@@ -284,7 +280,6 @@ CREATE PROCEDURE AlterarFichasFuncionarios(
 	@FuncStatus VARCHAR(12), 
 	@FichaFuncStatus VARCHAR(17),
 	@PesquisaCPF VARCHAR(11)
-	-- Preciso adicionar um parâmetro para comparar os CPFs corretamente
 )
 
 AS
@@ -336,43 +331,6 @@ AS
 			END
 	END
 GO
-
-DELETE FROM HospedesReservas WHERE Nome = 'Sla mano'
-
-EXEC CadastroReservaHospede 'Lourenço de Brito', '11111111111', 'lourenco.teste@gmail.com', '11941402111', 'Ativo', 'Ativada', '4738237238230128', 
-
---CREATE PROCEDURE CadastroReservaHospede(
---	@Nome VARCHAR(150),
---	@CPF VARCHAR(11),
---	@Email VARCHAR(150),
---	@Celular VARCHAR(11),
---	@StatusHospede VARCHAR(12),
---	@StatusReservaHospede VARCHAR(15),
---	@NumCartao VARCHAR(16),
---	@CheckIn DateTime,
---	@CheckOut DateTime,
---	@NumeroQuarto INT,
---	@CategoriaQuarto VARCHAR(50),
---	@CategoriaPreco INT
---)
-
---AS
---	BEGIN
---		IF EXISTS (SELECT * FROM HospedesReservas WHERE CPF = @CPF AND CheckIn = @CheckIn AND CheckOut = @CheckOut AND NumeroQuarto = @NumeroQuarto)
---			BEGIN
---				SELECT 'Quarto Ocupado' AS Retorno
---			END
---		ELSE
---			BEGIN
---				INSERT INTO HospedesReservas VALUES(
---					@Nome, @CPF, @Email, @Celular, @StatusHospede, @StatusReservaHospede, @NumCartao, 
---					@CheckIn, @CheckOut, @NumeroQuarto, @CategoriaQuarto, @CategoriaPreco
---				)
---			END
---	END
---GO
-
-
 
 EXEC CadastroReservaHospede 'Alan Graton', '00000000000', 'alan.teste@gmail.com', '11941402300', 'Ativo', 'Ativada', '00000000000', '05/11/2021', '06/11/2021', 1, 'Standard', 150
 -- Quartos STANDARD
