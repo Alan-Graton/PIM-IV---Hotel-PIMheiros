@@ -1,0 +1,10 @@
+C:\Faculdade\PIM\DAL\bin\Debug\DAL.dll
+C:\Faculdade\PIM\DAL\bin\Debug\DAL.pdb
+C:\Faculdade\PIM\DAL\bin\Debug\Classes.dll
+C:\Faculdade\PIM\DAL\bin\Debug\Connection.dll
+C:\Faculdade\PIM\DAL\bin\Debug\Classes.pdb
+C:\Faculdade\PIM\DAL\bin\Debug\Connection.pdb
+C:\Faculdade\PIM\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Faculdade\PIM\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Faculdade\PIM\DAL\obj\Debug\DAL.dll
+C:\Faculdade\PIM\DAL\obj\Debug\DAL.pdb

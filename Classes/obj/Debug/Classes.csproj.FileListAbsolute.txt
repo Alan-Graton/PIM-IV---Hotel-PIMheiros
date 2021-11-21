@@ -1,0 +1,6 @@
+C:\Faculdade\PIM\Classes\bin\Debug\Classes.dll
+C:\Faculdade\PIM\Classes\bin\Debug\Classes.pdb
+C:\Faculdade\PIM\Classes\obj\Debug\Classes.csproj.AssemblyReference.cache
+C:\Faculdade\PIM\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+C:\Faculdade\PIM\Classes\obj\Debug\Classes.dll
+C:\Faculdade\PIM\Classes\obj\Debug\Classes.pdb

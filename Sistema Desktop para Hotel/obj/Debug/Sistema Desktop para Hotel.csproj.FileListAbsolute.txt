@@ -1,0 +1,21 @@
+C:\Faculdade\PIM\Sistema Desktop para Hotel\bin\Debug\Sistema Desktop para Hotel.exe.config
+C:\Faculdade\PIM\Sistema Desktop para Hotel\bin\Debug\Sistema Desktop para Hotel.exe
+C:\Faculdade\PIM\Sistema Desktop para Hotel\bin\Debug\Sistema Desktop para Hotel.pdb
+C:\Faculdade\PIM\Sistema Desktop para Hotel\bin\Debug\MaterialSkin.dll
+C:\Faculdade\PIM\Sistema Desktop para Hotel\obj\Debug\Sistema Desktop para Hotel.csproj.AssemblyReference.cache
+C:\Faculdade\PIM\Sistema Desktop para Hotel\obj\Debug\Sistema_Desktop_para_Hotel.Properties.Resources.resources
+C:\Faculdade\PIM\Sistema Desktop para Hotel\obj\Debug\Sistema Desktop para Hotel.csproj.GenerateResource.cache
+C:\Faculdade\PIM\Sistema Desktop para Hotel\obj\Debug\Sistema Desktop para Hotel.csproj.CoreCompileInputs.cache
+C:\Faculdade\PIM\Sistema Desktop para Hotel\obj\Debug\Sistema Desktop para Hotel.exe
+C:\Faculdade\PIM\Sistema Desktop para Hotel\obj\Debug\Sistema Desktop para Hotel.pdb
+C:\Faculdade\PIM\Sistema Desktop para Hotel\obj\Debug\Sistema_Desktop_para_Hotel.Frm_Login.resources
+C:\Faculdade\PIM\Sistema Desktop para Hotel\obj\Debug\Sistema_Desktop_para_Hotel.Forms.Frm_EsqueciSenha.resources
+C:\Faculdade\PIM\Sistema Desktop para Hotel\obj\Debug\Sistema_Desktop_para_Hotel.Forms.Frm_Funcionarios.resources
+C:\Faculdade\PIM\Sistema Desktop para Hotel\obj\Debug\Sistema_Desktop_para_Hotel.Forms.Frm_Gerencia.resources
+C:\Faculdade\PIM\Sistema Desktop para Hotel\bin\Debug\Classes.dll
+C:\Faculdade\PIM\Sistema Desktop para Hotel\bin\Debug\DAL.dll
+C:\Faculdade\PIM\Sistema Desktop para Hotel\bin\Debug\Connection.dll
+C:\Faculdade\PIM\Sistema Desktop para Hotel\bin\Debug\Classes.pdb
+C:\Faculdade\PIM\Sistema Desktop para Hotel\bin\Debug\DAL.pdb
+C:\Faculdade\PIM\Sistema Desktop para Hotel\bin\Debug\Connection.pdb
+C:\Faculdade\PIM\Sistema Desktop para Hotel\obj\Debug\Sistema Desktop para Hotel.csproj.CopyComplete

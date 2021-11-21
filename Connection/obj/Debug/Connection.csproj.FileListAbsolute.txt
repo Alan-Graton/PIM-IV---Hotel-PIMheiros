@@ -1,0 +1,6 @@
+C:\Faculdade\PIM\Connection\bin\Debug\Connection.dll
+C:\Faculdade\PIM\Connection\bin\Debug\Connection.pdb
+C:\Faculdade\PIM\Connection\obj\Debug\Connection.csproj.AssemblyReference.cache
+C:\Faculdade\PIM\Connection\obj\Debug\Connection.csproj.CoreCompileInputs.cache
+C:\Faculdade\PIM\Connection\obj\Debug\Connection.dll
+C:\Faculdade\PIM\Connection\obj\Debug\Connection.pdb
