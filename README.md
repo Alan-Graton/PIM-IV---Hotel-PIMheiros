@@ -28,3 +28,8 @@ PIM IV - Desenvolver uma aplicação Desktop e Web para um Hotel fictício (Hote
   - **Arquivos**
     1. Default.aspx
     2. Default.aspx.cs
+
+### Query para Banco de Dados
+  - **Pasta Raiz**
+    - **Arquivo**
+      1. SQLQuery1.sql
